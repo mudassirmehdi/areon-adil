@@ -1,0 +1,12 @@
+With that in mind, there are two things I’d like to focus on:
+
+We should work on the responsive states before moving this into the dev environment. This breaks down especially in mobile. We talked about stacking the left column on top of the right column in mobile, and adding a fading function to the scrolling right column so that it doesn’t visibly intersect the headline in the left column above it. Let me know if this seems like it will still fit into your scope or if we need to think of a different option to fit in budget.
+
+Next piece of feedback is less important than the above request: is there any “snap” function we can add to the scrolling right column so that it snaps into place-- centered vertically in the viewport? The scrolling text feels a little too floaty and could be hard to read. Or alternatively, can the text scroll at a uniform pace instead of slowing and speeding up? This is hard to describe, so here’s a quick video of what I’m seeing and feeling as I scroll.
+
+
+https://www.loom.com/share/73533c2dad914e13bf13ad681489c090?sid=2ada60ed-43f4-4738-8cd2-4782471cf37a
+
+https://lightforecast.com/
+https://www.wildhorsevillage.com/
+https://codepen.io/animationbro/pen/WNzbqLR
